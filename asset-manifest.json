@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Nandi-exam-app/static/css/main.8c410243.css",
+    "main.js": "/Nandi-exam-app/static/js/main.32606779.js",
+    "static/js/239.6e1dbf2f.chunk.js": "/Nandi-exam-app/static/js/239.6e1dbf2f.chunk.js",
+    "static/js/213.39bcd173.chunk.js": "/Nandi-exam-app/static/js/213.39bcd173.chunk.js",
+    "static/js/455.498ceca7.chunk.js": "/Nandi-exam-app/static/js/455.498ceca7.chunk.js",
+    "index.html": "/Nandi-exam-app/index.html",
+    "main.8c410243.css.map": "/Nandi-exam-app/static/css/main.8c410243.css.map",
+    "main.32606779.js.map": "/Nandi-exam-app/static/js/main.32606779.js.map",
+    "239.6e1dbf2f.chunk.js.map": "/Nandi-exam-app/static/js/239.6e1dbf2f.chunk.js.map",
+    "213.39bcd173.chunk.js.map": "/Nandi-exam-app/static/js/213.39bcd173.chunk.js.map",
+    "455.498ceca7.chunk.js.map": "/Nandi-exam-app/static/js/455.498ceca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c410243.css",
+    "static/js/main.32606779.js"
+  ]
+}
